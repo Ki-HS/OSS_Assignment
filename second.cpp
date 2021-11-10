@@ -4,6 +4,6 @@ using namespace std;
 
 int main()
 {
-	cout<<"second"<<endl;
+	cout<<"second, modi"<<endl;
 	return 0;
 }
