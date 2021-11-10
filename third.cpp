@@ -4,6 +4,6 @@ using namespace std;
 
 int main()
 {
-	cout<<"third"endl;
+	cout<<"third, modi"endl;
 	return 0;
 }
